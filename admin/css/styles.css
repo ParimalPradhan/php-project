@@ -1,0 +1,34 @@
+/* #load-screen {
+    background: url(../images/header.png);
+    position: fixed;
+    z-index: 10000;
+    top:0px;
+    width: 100%;
+    height: 1600px;
+    
+    }
+    
+    
+
+ #load-screen {
+  
+background-image: url(../images/loaderr.gif);
+background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;   
+
+}
+    
+    #loading {
+    
+    width: 500px;
+    height: 500px;
+    margin: 10% auto;
+    background: url(../images/loaderr.gif);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+    }
+     */
